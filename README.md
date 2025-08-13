@@ -1,1 +1,1 @@
-# zipcode_locked_realestate_ranking_system
+A property ranking platform powered by a cost function–based scoring system that integrates real estate APIs, FastAPI endpoints, and statistical modeling. Evaluates ROI potential by factoring in location-based amenities, safety proxies, and pricing trends, with LLM-generated justifications for top property selections.
